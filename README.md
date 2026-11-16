@@ -1,6 +1,6 @@
 # Análisis de Movilidad Urbana y Economía en Latinoamérica
 
-**Proyecto de Análisis de Datos | TripleTen – Sprint 5**
+**Proyecto de Análisis de Datos | Tripleten – Sprint 5**
 
 ## 📌 Descripción del proyecto
 
